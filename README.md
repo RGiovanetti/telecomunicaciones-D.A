@@ -15,56 +15,15 @@ Para entender mejor los ingresos generados por los accesos a internet, se ha inc
 
 Los datos económicos son esenciales para evaluar el impacto financiero del crecimiento de la conectividad en Argentina. Al analizar la correlación entre el aumento del uso de internet y los ingresos generados, se pueden identificar tendencias y oportunidades para futuras inversiones.
 
+
+
+
+consideraciones:
+
+-En el caso de los valores faltantes para variables no categoricas se decicidió relllenar con '0' como valor, entendiendo que si faltaban valores es proque no existen.
+
+-Al ser una fuente de datos oficial Los valores considerados outliers seran mencionados, pero no serán ni eliminados bajo ningún punto de vista.
+
+
 Conclusión
 La mejora y expansión de los servicios de internet en Argentina han sido posibles gracias a una colaboración efectiva entre el sector público y privado. Iniciativas como REFEFO han jugado un papel crucial en esta transformación, y la pandemia ha acelerado la necesidad de una conectividad robusta. Analizar estos desarrollos desde una perspectiva económica proporciona una base sólida para futuras inversiones y políticas públicas que continúen mejorando la infraestructura digital del país.
-
-
-
-
-
-
-
-
-
-
-En el caso de los valores faltantes para variables no categoricas se decicidió relllenar con '0' como valor, entendiendo que si faltaban valores es proque no existen
-
-
-
-Para tu proyecto de análisis de datos sobre el acceso a internet en Argentina, los KPIs (Indicadores Clave de Desempeño) pueden ayudarte a medir y evaluar diferentes aspectos relacionados con los datos disponibles. Aquí te propongo algunos posibles KPIs que podrías considerar:
-
-1. Accesos por Tecnología
-KPI: Total de accesos por tipo de tecnología (ADSL, fibra óptica, cable módem, dial-up, etc.).
-Objetivo: Entender la distribución y preferencias de los usuarios en cuanto a tecnologías de conexión.
-2. Penetración de Internet en la Población y Hogares
-KPI: Porcentaje de penetración de internet en la población y hogares por provincia.
-Objetivo: Evaluar el alcance y adopción de internet en diferentes regiones.
-3. Velocidad de Conexión
-KPI: Distribución de accesos por rangos de velocidad (por ejemplo, porcentajes de accesos según velocidades específicas como 1 Mbps, 10 Mbps, etc.).
-Objetivo: Analizar la calidad y capacidad de conexión disponible para los usuarios.
-4. Ingresos Generados por Servicios de Internet
-KPI: Ingresos generados por servicios de internet en miles de pesos.
-Objetivo: Medir el impacto económico del sector de telecomunicaciones a través de los ingresos obtenidos.
-5. Velocidad Media Descargada (VMD)
-KPI: Velocidad media descargada (VMD) por región o provincia.
-Objetivo: Evaluar la calidad de servicio percibida en términos de velocidad de descarga.
-6. Accesos Dial-up vs Banda Ancha Fija (BAf)
-KPI: Comparación de accesos dial-up y Banda Ancha Fija (BAf).
-Objetivo: Entender la transición y preferencia entre tecnologías de conexión.
-7. Distribución de Velocidad por Provincia
-KPI: Porcentaje de accesos a internet por rangos de velocidad en cada provincia.
-Objetivo: Identificar diferencias regionales en cuanto a la velocidad de conexión disponible.
-8. Totales de Accesos por Tecnología y Localidad
-KPI: Total de accesos a internet desglosados por tecnología y localidad.
-Objetivo: Analizar patrones de acceso a internet según características geográficas y tecnológicas.
-9. Crecimiento de Penetración de Internet
-KPI: Tasa de crecimiento anual de la penetración de internet en población y hogares.
-Objetivo: Medir la evolución y expansión del acceso a internet a lo largo del tiempo.
-10. Comparación entre Provincias
-KPI: Comparaciones de diferentes KPIs entre provincias (por ejemplo, penetración, velocidad, tecnología).
-Objetivo: Identificar disparidades y áreas de oportunidad entre regiones.
-Implementación de KPIs:
-Utiliza gráficos de barras, líneas, mapas de calor, y otros tipos de visualizaciones para representar tus KPIs de manera efectiva.
-Realiza análisis comparativos y de tendencias para extraer insights valiosos.
-Asegúrate de documentar adecuadamente tus hallazgos y conclusiones en tu análisis y dashboard final.
-Selecciona los KPIs que mejor se alineen con los objetivos de tu análisis y los datos disponibles. Esto te permitirá obtener una comprensión profunda del panorama del acceso a internet en Argentina según las diferentes dimensiones analizadas.
